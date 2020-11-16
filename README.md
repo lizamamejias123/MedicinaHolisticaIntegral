@@ -1,6 +1,6 @@
 # Michael - Medicina Holistica Integral 
 
-<img src="michael/assets/img/screencapture-localhost-8080-2020-11-16-20_26_51.png">
+<img src="michael/src/assets/img/screencapture-localhost-8080-2020-11-16-20_26_51.png">
 
 ## Project setup
 ```
