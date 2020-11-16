@@ -1,4 +1,6 @@
-# michael
+# Michael - Medicina Holistica Integral 
+
+
 
 ## Project setup
 ```
