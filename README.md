@@ -1,4 +1,4 @@
-# Michael - Medicina Holistica Integral 
+# Michael - Medicina Holistica Integral (En Construcción) 
 
 <img src="src/assets/img/screencapture-localhost-8080-2020-11-16-20_26_51.png">
 
